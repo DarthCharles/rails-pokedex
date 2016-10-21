@@ -1,0 +1,16 @@
+.container
+  .row
+    .col-md-6
+      h1= 'Welcome#index'
+      p= 'Find me in app/views/welcome/index.html.slim'
+
+  .row
+    .col-md-6
+
+      = form_for(:pokemon) do |f|
+
+        .form-inputs
+          = f.text_field :name
+
+        .form-actions
+          = f.button :submit

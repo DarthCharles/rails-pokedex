@@ -1,0 +1,22 @@
+.row
+  .col-md-6
+    h1= 'Pokedex'
+    p= link_to 'New', new_pokemon_path, class: "btn btn-primary"
+
+.row
+  .col-md-12
+    table.table.table-striped
+      thead
+        th = 'National #'
+        th = 'img_url'
+        th = 'name'
+        th = 'Actions'
+
+      - @pokemon.each do |pokemon|
+          tr
+            td= pokemon.nat
+            td
+              = link_to image_tag(pokemon.img_url), pokemon_path(pokemon)
+            td= pokemon.name
+            td= link_to 'Edit', edit_pokemon_path(pokemon), class: "btn btn-success"
+            td= link_to 'Destroy', pokemon_path(pokemon), method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger"

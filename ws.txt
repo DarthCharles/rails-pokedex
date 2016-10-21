@@ -1,0 +1,40 @@
+- Intro
+  * Decir quien soy
+  * Preguntar semestres y que lenguajes manejan
+  * Command line
+- Ruby
+- Rails
+- MVC
+- RAILS HELLO WORLD
+  * rails generate controller welcome index
+  * git init
+- HTTP METHODS
+- GEMS
+  * It's actually 2016 no one uses html
+  * Install bootstrap
+- ACTUAL POKEMON
+  * Model
+    -nat
+    -name
+    -hp
+    -atk
+    -def
+    -spA
+    -spD
+    -typeI
+    -typeII
+    -abilityI
+    -abilityII
+    -hiddenAbility
+    -mass
+    -color
+    - image_url
+  * crear migracion
+  * verificar en rails console
+
+- CRUD
+  * Controller goes in plural
+  * Mejor usa el generador, menos hueva
+
+
+- DEPLOYMENT

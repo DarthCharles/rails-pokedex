@@ -1,0 +1,8 @@
+nat,name,hp,atk,def,spA,spD,typeI,typeII,abilityI,abilityII,hiddenAbilith,mass,color,img_url
+1,Bulbasaur,45,49,49,65,65,Grass,Poison,Overgrow,,Chlorophyll,6.9 kG,Green,http://www.pokestadium.com/sprites/xy/bulbasaur.gif
+7,Squirtle,44,48,65,60,54,Water,,Torrent,,Rain Dish,9.0 kG,Blue,http://www.pokestadium.com/sprites/xy/squirtle.gif
+15,Beedrill,65,80,40,40,80,Bug,Poison,Swarm,,Sniper,29.5 kG,Yellow,http://www.pokestadium.com/sprites/xy/beedrill.gif
+25,Pikachu,35,55,30,50,40,Electric,,Static,,Lightningrod,6.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/pikachu.gif
+116,Horsea,30,40,70,70,25,Water,,Swift Swim,Sniper,Damp,8.0 kG,Blue,http://www.pokestadium.com/sprites/xy/horsea.gif
+142,Aerodactyl,80,105,65,60,75,Rock,Flying,Rock Head,Pressure,Unnerve,59.0 kG,Purple,http://www.pokestadium.com/sprites/xy/aerodactyl.gif
+184,Azumarill,100,50,80,50,80,Water,,Thick Fat,Huge Power,Sap Sipper,28.5 kG,Blue,http://www.pokestadium.com/sprites/xy/azumarill.gif

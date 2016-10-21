@@ -1,0 +1,21 @@
+= simple_form_for(@pokemon) do |f|
+  .form-inputs
+    = f.input :nat,  required: false, input_html: { class: 'form-control' }
+    = f.input :name,  required: false, input_html: { class: 'form-control' }
+    = f.input :hp,  required: false, input_html: { class: 'form-control' }
+    = f.input :atk,  required: false, input_html: { class: 'form-control' }
+    = f.input :def,  required: false, input_html: { class: 'form-control' }
+    = f.input :spA,  required: false, input_html: { class: 'form-control' }
+    = f.input :spD,  required: false, input_html: { class: 'form-control' }
+    = f.input :typeI,  required: false, input_html: { class: 'form-control' }
+    = f.input :typeII,  required: false, input_html: { class: 'form-control' }
+    = f.input :abilityI,  required: false, input_html: { class: 'form-control' }
+    = f.input :abilityII,  required: false, input_html: { class: 'form-control' }
+    = f.input :hiddenAbility,  required: false, input_html: { class: 'form-control' }
+    = f.input :mass,  required: false, input_html: { class: 'form-control' }
+    = f.input :color,  required: false, input_html: { class: 'form-control' }
+    = f.input :img_url,  required: false, input_html: { class: 'form-control' }
+
+  .form-actions
+    br
+      = f.button :submit, class: 'btn btn-primary'
