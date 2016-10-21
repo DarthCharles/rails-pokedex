@@ -1,8 +1,132 @@
 nat,name,hp,atk,def,spA,spD,typeI,typeII,abilityI,abilityII,hiddenAbilith,mass,color,img_url
 1,Bulbasaur,45,49,49,65,65,Grass,Poison,Overgrow,,Chlorophyll,6.9 kG,Green,http://www.pokestadium.com/sprites/xy/bulbasaur.gif
+2,Ivysaur,60,62,63,80,80,Grass,Poison,Overgrow,,Chlorophyll,13.0 kG,Green,http://www.pokestadium.com/sprites/xy/ivysaur.gif
+3,Venusaur,80,82,83,100,100,Grass,Poison,Overgrow,,Chlorophyll,100.0 kG,Green,http://www.pokestadium.com/sprites/xy/venusaur.gif
+4,Charmander,39,52,43,60,50,Fire,,Blaze,,Solar Power,8.5 kG,Red,http://www.pokestadium.com/sprites/xy/charmander.gif
+5,Charmeleon,58,64,58,80,65,Fire,,Blaze,,Solar Power,19.0 kG,Red,http://www.pokestadium.com/sprites/xy/charmeleon.gif
+6,Charizard,78,84,78,109,85,Fire,Flying,Blaze,,Solar Power,90.5 kG,Red,http://www.pokestadium.com/sprites/xy/charizard.gif
 7,Squirtle,44,48,65,60,54,Water,,Torrent,,Rain Dish,9.0 kG,Blue,http://www.pokestadium.com/sprites/xy/squirtle.gif
+8,Wartortle,59,63,80,65,80,Water,,Torrent,,Rain Dish,22.5 kG,Blue,http://www.pokestadium.com/sprites/xy/wartortle.gif
+9,Blastoise,79,83,100,85,105,Water,,Torrent,,Rain Dish,85.5 kG,Blue,http://www.pokestadium.com/sprites/xy/blastoise.gif
+10,Caterpie,45,30,35,20,20,Bug,,Shield Dust,,Run Away,2.9 kG,Green,http://www.pokestadium.com/sprites/xy/caterpie.gif
+11,Metapod,50,20,55,25,25,Bug,,Shed Skin,,,9.9 kG,Green,http://www.pokestadium.com/sprites/xy/metapod.gif
+12,Butterfree,60,45,50,80,80,Bug,Flying,Compoundeyes,,Tinted Lens,32.0 kG,White,http://www.pokestadium.com/sprites/xy/butterfree.gif
+13,Weedle,40,35,30,20,20,Bug,Poison,Shield Dust,,Run Away,3.2 kG,Brown,http://www.pokestadium.com/sprites/xy/weedle.gif
+14,Kakuna,45,25,50,25,25,Bug,Poison,Shed Skin,,,10.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/kakuna.gif
 15,Beedrill,65,80,40,40,80,Bug,Poison,Swarm,,Sniper,29.5 kG,Yellow,http://www.pokestadium.com/sprites/xy/beedrill.gif
+16,Pidgey,40,45,40,35,35,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,1.8 kG,Brown,http://www.pokestadium.com/sprites/xy/pidgey.gif
+17,Pidgeotto,63,60,55,50,50,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,30.0 kG,Brown,http://www.pokestadium.com/sprites/xy/pidgeotto.gif
+18,Pidgeot,83,80,75,70,70,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,39.5 kG,Brown,http://www.pokestadium.com/sprites/xy/pidgeot.gif
+19,Rattata,30,56,35,25,35,Normal,,Run Away,Guts,Hustle,3.5 kG,Purple,http://www.pokestadium.com/sprites/xy/rattata.gif
+20,Raticate,55,81,60,50,70,Normal,,Run Away,Guts,Hustle,18.5 kG,Brown,http://www.pokestadium.com/sprites/xy/raticate.gif
+21,Spearow,40,60,30,31,31,Normal,Flying,Keen Eye,,Sniper,2.0 kG,Brown,http://www.pokestadium.com/sprites/xy/spearow.gif
+22,Fearow,65,90,65,61,61,Normal,Flying,Keen Eye,,Sniper,38.0 kG,Brown,http://www.pokestadium.com/sprites/xy/fearow.gif
+23,Ekans,30,60,44,40,54,Poison,,Intimidate,Shed Skin,Unnerve,6.9 kG,Purple,http://www.pokestadium.com/sprites/xy/ekans.gif
+24,Arbok,60,85,69,65,79,Poison,,Intimidate,Shed Skin,Unnerve,65.0 kG,Purple,http://www.pokestadium.com/sprites/xy/arbok.gif
 25,Pikachu,35,55,30,50,40,Electric,,Static,,Lightningrod,6.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/pikachu.gif
+26,Raichu,60,90,55,90,80,Electric,,Static,,Lightningrod,30.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/raichu.gif
+27,Sandshrew,50,75,85,20,30,Ground,,Sand Veil,,Sand Rush,12.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/sandshrew.gif
+28,Sandslash,75,100,110,45,55,Ground,,Sand Veil,,Sand Rush,29.5 kG,Yellow,http://www.pokestadium.com/sprites/xy/sandslash.gif
+29,Nidoran,55,47,52,40,40,Poison,,Poison Point,Rivalry,Hustle,7.0 kG,Blue,http://www.pokestadium.com/sprites/xy/nidoran.gif
+30,Nidorina,70,62,67,55,55,Poison,,Poison Point,Rivalry,Hustle,20.0 kG,Blue,http://www.pokestadium.com/sprites/xy/nidorina.gif
+31,Nidoqueen,90,82,87,75,85,Poison,Ground,Poison Point,Rivalry,Sheer Force,60.0 kG,Blue,http://www.pokestadium.com/sprites/xy/nidoqueen.gif
+32,Nidoran,46,57,40,40,40,Poison,,Poison Point,Rivalry,Hustle,9.0 kG,Purple,http://www.pokestadium.com/sprites/xy/nidoran.gif
+33,Nidorino,61,72,57,55,55,Poison,,Poison Point,Rivalry,Hustle,19.5 kG,Purple,http://www.pokestadium.com/sprites/xy/nidorino.gif
+34,Nidoking,81,92,77,85,75,Poison,Ground,Poison Point,Rivalry,Sheer Force,62.0 kG,Purple,http://www.pokestadium.com/sprites/xy/nidoking.gif
+35,Clefairy,70,45,48,60,65,Normal,,Cute Charm,Magic Guard,Friend Guard,7.5 kG,Pink,http://www.pokestadium.com/sprites/xy/clefairy.gif
+36,Clefable,95,70,73,85,90,Normal,,Cute Charm,Magic Guard,Unaware,40.0 kG,Pink,http://www.pokestadium.com/sprites/xy/clefable.gif
+37,Vulpix,38,41,40,50,65,Fire,,Flash Fire,,Drought,9.9 kG,Brown,http://www.pokestadium.com/sprites/xy/vulpix.gif
+38,Ninetales,73,76,75,81,100,Fire,,Flash Fire,,Drought,19.9 kG,Yellow,http://www.pokestadium.com/sprites/xy/ninetales.gif
+39,Jigglypuff,115,45,20,45,25,Normal,,Cute Charm,,Friend Guard,5.5 kG,Pink,http://www.pokestadium.com/sprites/xy/jigglypuff.gif
+40,Wigglytuff,140,70,45,75,50,Normal,,Cute Charm,,Frisk,12.0 kG,Pink,http://www.pokestadium.com/sprites/xy/wigglytuff.gif
+41,Zubat,40,45,35,30,40,Poison,Flying,Inner Focus,,Infiltrator,7.5 kG,Purple,http://www.pokestadium.com/sprites/xy/zubat.gif
+42,Golbat,75,80,70,65,75,Poison,Flying,Inner Focus,,Infiltrator,55.0 kG,Purple,http://www.pokestadium.com/sprites/xy/golbat.gif
+43,Oddish,45,50,55,75,65,Grass,Poison,Chlorophyll,,Run Away,5.4 kG,Blue,http://www.pokestadium.com/sprites/xy/oddish.gif
+44,Gloom,60,65,70,85,75,Grass,Poison,Chlorophyll,,Stench,8.6 kG,Blue,http://www.pokestadium.com/sprites/xy/gloom.gif
+45,Vileplume,75,80,85,100,90,Grass,Poison,Chlorophyll,,Effect Spore,18.6 kG,Red,http://www.pokestadium.com/sprites/xy/vileplume.gif
+46,Paras,35,70,55,45,55,Bug,Grass,Effect Spore,Dry Skin,Damp,5.4 kG,Red,http://www.pokestadium.com/sprites/xy/paras.gif
+47,Parasect,60,95,80,60,80,Bug,Grass,Effect Spore,Dry Skin,Damp,29.5 kG,Red,http://www.pokestadium.com/sprites/xy/parasect.gif
+48,Venonat,60,55,50,40,55,Bug,Poison,Compoundeyes,Tinted Lens,Run Away,30.0 kG,Purple,http://www.pokestadium.com/sprites/xy/venonat.gif
+49,Venomoth,70,65,60,90,75,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,12.5 kG,Purple,http://www.pokestadium.com/sprites/xy/venomoth.gif
+50,Diglett,10,55,25,35,45,Ground,,Sand Veil,Arena Trap,Sand Force,0.8 kG,Brown,http://www.pokestadium.com/sprites/xy/diglett.gif
+51,Dugtrio,35,80,50,50,70,Ground,,Sand Veil,Arena Trap,Sand Force,33.3 kG,Brown,http://www.pokestadium.com/sprites/xy/dugtrio.gif
+52,Meowth,40,45,35,40,40,Normal,,Pickup,Technician,Unnerve,4.2 kG,Yellow,http://www.pokestadium.com/sprites/xy/meowth.gif
+53,Persian,65,70,60,65,65,Normal,,Limber,Technician,Unnerve,32.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/persian.gif
+54,Psyduck,50,52,48,65,50,Water,,Damp,Cloud Nine,Swift Swim,19.6 kG,Yellow,http://www.pokestadium.com/sprites/xy/psyduck.gif
+55,Golduck,80,82,78,95,80,Water,,Damp,Cloud Nine,Swift Swim,76.6 kG,Blue,http://www.pokestadium.com/sprites/xy/golduck.gif
+56,Mankey,40,80,35,35,45,Fighting,,Vital Spirit,Anger Point,Defiant,28.0 kG,Brown,http://www.pokestadium.com/sprites/xy/mankey.gif
+57,Primeape,65,105,60,60,70,Fighting,,Vital Spirit,Anger Point,Defiant,32.0 kG,Brown,http://www.pokestadium.com/sprites/xy/primeape.gif
+58,Growlithe,55,70,45,70,50,Fire,,Intimidate,Flash Fire,Justified,19.0 kG,Brown,http://www.pokestadium.com/sprites/xy/growlithe.gif
+59,Arcanine,90,110,80,100,80,Fire,,Intimidate,Flash Fire,Justified,155.0 kG,Brown,http://www.pokestadium.com/sprites/xy/arcanine.gif
+60,Poliwag,40,50,40,40,40,Water,,Water Absorb,Damp,Swift Swim,12.4 kG,Blue,http://www.pokestadium.com/sprites/xy/poliwag.gif
+61,Poliwhirl,65,65,65,50,50,Water,,Water Absorb,Damp,Swift Swim,20.0 kG,Blue,http://www.pokestadium.com/sprites/xy/poliwhirl.gif
+62,Poliwrath,90,85,95,70,90,Water,Fighting,Water Absorb,Damp,Swift Swim,54.0 kG,Blue,http://www.pokestadium.com/sprites/xy/poliwrath.gif
+63,Abra,25,20,15,105,55,Psychic,,Synchronize,Inner Focus,Magic Guard,19.5 kG,Brown,http://www.pokestadium.com/sprites/xy/abra.gif
+64,Kadabra,40,35,30,120,70,Psychic,,Synchronize,Inner Focus,Magic Guard,56.5 kG,Brown,http://www.pokestadium.com/sprites/xy/kadabra.gif
+65,Alakazam,55,50,45,135,85,Psychic,,Synchronize,Inner Focus,Magic Guard,48.0 kG,Brown,http://www.pokestadium.com/sprites/xy/alakazam.gif
+66,Machop,70,80,50,35,35,Fighting,,Guts,No Guard,Steadfast,19.5 kG,Gray,http://www.pokestadium.com/sprites/xy/machop.gif
+67,Machoke,80,100,70,50,60,Fighting,,Guts,No Guard,Steadfast,70.5 kG,Gray,http://www.pokestadium.com/sprites/xy/machoke.gif
+68,Machamp,90,130,80,65,85,Fighting,,Guts,No Guard,Steadfast,130.0 kG,Gray,http://www.pokestadium.com/sprites/xy/machamp.gif
+69,Bellsprout,50,75,35,70,30,Grass,Poison,Chlorophyll,,Gluttony,4.0 kG,Green,http://www.pokestadium.com/sprites/xy/bellsprout.gif
+70,Weepinbell,65,90,50,85,45,Grass,Poison,Chlorophyll,,Gluttony,6.4 kG,Green,http://www.pokestadium.com/sprites/xy/weepinbell.gif
+71,Victreebel,80,105,65,100,60,Grass,Poison,Chlorophyll,,Gluttony,15.5 kG,Green,http://www.pokestadium.com/sprites/xy/victreebel.gif
+72,Tentacool,40,40,35,50,100,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,45.5 kG,Blue,http://www.pokestadium.com/sprites/xy/tentacool.gif
+73,Tentacruel,80,70,65,80,120,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,55.0 kG,Blue,http://www.pokestadium.com/sprites/xy/tentacruel.gif
+74,Geodude,40,80,100,30,30,Rock,Ground,Rock Head,Sturdy,Sand Veil,20.0 kG,Brown,http://www.pokestadium.com/sprites/xy/geodude.gif
+75,Graveler,55,95,115,45,45,Rock,Ground,Rock Head,Sturdy,Sand Veil,105.0 kG,Brown,http://www.pokestadium.com/sprites/xy/graveler.gif
+76,Golem,80,110,130,55,65,Rock,Ground,Rock Head,Sturdy,Sand Veil,300.0 kG,Brown,http://www.pokestadium.com/sprites/xy/golem.gif
+77,Ponyta,50,85,55,65,65,Fire,,Run Away,Flash Fire,Flame Body,30.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/ponyta.gif
+78,Rapidash,65,100,70,80,80,Fire,,Run Away,Flash Fire,Flame Body,95.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/rapidash.gif
+79,Slowpoke,90,65,65,40,40,Water,Psychic,Oblivious,Own Tempo,Regenerator,36.0 kG,Pink,http://www.pokestadium.com/sprites/xy/slowpoke.gif
+80,Slowbro,95,75,110,100,80,Water,Psychic,Oblivious,Own Tempo,Regenerator,78.5 kG,Pink,http://www.pokestadium.com/sprites/xy/slowbro.gif
+81,Magnemite,25,35,70,95,55,Electric,Steel,Magnet Pull,Sturdy,Analytic,6.0 kG,Gray,http://www.pokestadium.com/sprites/xy/magnemite.gif
+82,Magneton,50,60,95,120,70,Electric,Steel,Magnet Pull,Sturdy,Analytic,60.0 kG,Gray,http://www.pokestadium.com/sprites/xy/magneton.gif
+83,Farfetch'd,52,65,55,58,62,Normal,Flying,Keen Eye,Inner Focus,Defiant,15.0 kG,Brown,http://www.pokestadium.com/sprites/xy/farfetch'd.gif
+84,Doduo,35,85,45,35,35,Normal,Flying,Run Away,Early Bird,Tangled Feet,39.2 kG,Brown,http://www.pokestadium.com/sprites/xy/doduo.gif
+85,Dodrio,60,110,70,60,60,Normal,Flying,Run Away,Early Bird,Tangled Feet,85.2 kG,Brown,http://www.pokestadium.com/sprites/xy/dodrio.gif
+86,Seel,65,45,55,45,70,Water,,Thick Fat,Hydration,Ice Body,90.0 kG,White,http://www.pokestadium.com/sprites/xy/seel.gif
+87,Dewgong,90,70,80,70,95,Water,Ice,Thick Fat,Hydration,Ice Body,120.0 kG,White,http://www.pokestadium.com/sprites/xy/dewgong.gif
+88,Grimer,80,80,50,40,50,Poison,,Stench,Sticky Hold,Poison Touch,30.0 kG,Purple,http://www.pokestadium.com/sprites/xy/grimer.gif
+89,Muk,105,105,75,65,100,Poison,,Stench,Sticky Hold,Poison Touch,30.0 kG,Purple,http://www.pokestadium.com/sprites/xy/muk.gif
+90,Shellder,30,65,100,45,25,Water,,Shell Armor,Skill Link,Overcoat,4.0 kG,Purple,http://www.pokestadium.com/sprites/xy/shellder.gif
+91,Cloyster,50,90,180,85,45,Water,Ice,Shell Armor,Skill Link,Overcoat,132.5 kG,Purple,http://www.pokestadium.com/sprites/xy/cloyster.gif
+92,Gastly,30,35,30,100,35,Ghost,Poison,Levitate,,,0.1 kG,Purple,http://www.pokestadium.com/sprites/xy/gastly.gif
+93,Haunter,45,50,45,115,55,Ghost,Poison,Levitate,,,0.1 kG,Purple,http://www.pokestadium.com/sprites/xy/haunter.gif
+94,Gengar,60,65,60,130,75,Ghost,Poison,Levitate,,,40.5 kG,Purple,http://www.pokestadium.com/sprites/xy/gengar.gif
+95,Onix,35,45,160,30,45,Rock,Ground,Rock Head,Sturdy,Weak Armor,210.0 kG,Gray,http://www.pokestadium.com/sprites/xy/onix.gif
+96,Drowzee,60,48,45,43,90,Psychic,,Insomnia,Forewarn,Inner Focus,32.4 kG,Yellow,http://www.pokestadium.com/sprites/xy/drowzee.gif
+97,Hypno,85,73,70,73,115,Psychic,,Insomnia,Forewarn,Inner Focus,75.6 kG,Yellow,http://www.pokestadium.com/sprites/xy/hypno.gif
+98,Krabby,30,105,90,25,25,Water,,Hyper Cutter,Shell Armor,Sheer Force,6.5 kG,Red,http://www.pokestadium.com/sprites/xy/krabby.gif
+99,Kingler,55,130,115,50,50,Water,,Hyper Cutter,Shell Armor,Sheer Force,60.0 kG,Red,http://www.pokestadium.com/sprites/xy/kingler.gif
+100,Voltorb,40,30,50,55,55,Electric,,Soundproof,Static,Aftermath,10.4 kG,Red,http://www.pokestadium.com/sprites/xy/voltorb.gif
+101,Electrode,60,50,70,80,80,Electric,,Soundproof,Static,Aftermath,66.6 kG,Red,http://www.pokestadium.com/sprites/xy/electrode.gif
+102,Exeggcute,60,40,80,60,45,Grass,Psychic,Chlorophyll,,Harvest,2.5 kG,Pink,http://www.pokestadium.com/sprites/xy/exeggcute.gif
+103,Exeggutor,95,95,85,125,65,Grass,Psychic,Chlorophyll,,Harvest,120.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/exeggutor.gif
+104,Cubone,50,50,95,40,50,Ground,,Rock Head,Lightningrod,Battle Armor,6.5 kG,Brown,http://www.pokestadium.com/sprites/xy/cubone.gif
+105,Marowak,60,80,110,50,80,Ground,,Rock Head,Lightningrod,Battle Armor,45.0 kG,Brown,http://www.pokestadium.com/sprites/xy/marowak.gif
+106,Hitmonlee,50,120,53,35,110,Fighting,,Limber,Reckless,Unburden,49.8 kG,Brown,http://www.pokestadium.com/sprites/xy/hitmonlee.gif
+107,Hitmonchan,50,105,79,35,110,Fighting,,Keen Eye,Iron Fist,Inner Focus,50.2 kG,Brown,http://www.pokestadium.com/sprites/xy/hitmonchan.gif
+108,Lickitung,90,55,75,60,75,Normal,,Own Tempo,Oblivious,Cloud Nine,65.5 kG,Pink,http://www.pokestadium.com/sprites/xy/lickitung.gif
+109,Koffing,40,65,95,60,45,Poison,,Levitate,,,1.0 kG,Purple,http://www.pokestadium.com/sprites/xy/koffing.gif
+110,Weezing,65,90,120,85,70,Poison,,Levitate,,,9.5 kG,Purple,http://www.pokestadium.com/sprites/xy/weezing.gif
+111,Rhyhorn,80,85,95,30,30,Ground,Rock,Lightningrod,Rock Head,Reckless,115.0 kG,Gray,http://www.pokestadium.com/sprites/xy/rhyhorn.gif
+112,Rhydon,105,130,120,45,45,Ground,Rock,Lightningrod,Rock Head,Reckless,120.0 kG,Gray,http://www.pokestadium.com/sprites/xy/rhydon.gif
+113,Chansey,250,5,5,35,105,Normal,,Natural Cure,Serene Grace,Healer,34.6 kG,Pink,http://www.pokestadium.com/sprites/xy/chansey.gif
+114,Tangela,65,55,115,100,40,Grass,,Chlorophyll,Leaf Guard,Regenerator,35.0 kG,Blue,http://www.pokestadium.com/sprites/xy/tangela.gif
+115,Kangaskhan,105,95,80,40,80,Normal,,Early Bird,Scrappy,Inner Focus,80.0 kG,Brown,http://www.pokestadium.com/sprites/xy/kangaskhan.gif
 116,Horsea,30,40,70,70,25,Water,,Swift Swim,Sniper,Damp,8.0 kG,Blue,http://www.pokestadium.com/sprites/xy/horsea.gif
-142,Aerodactyl,80,105,65,60,75,Rock,Flying,Rock Head,Pressure,Unnerve,59.0 kG,Purple,http://www.pokestadium.com/sprites/xy/aerodactyl.gif
-184,Azumarill,100,50,80,50,80,Water,,Thick Fat,Huge Power,Sap Sipper,28.5 kG,Blue,http://www.pokestadium.com/sprites/xy/azumarill.gif
+117,Seadra,55,65,95,95,45,Water,,Poison Point,Sniper,Damp,25.0 kG,Blue,http://www.pokestadium.com/sprites/xy/seadra.gif
+118,Goldeen,45,67,60,35,50,Water,,Swift Swim,Water Veil,Lightningrod,15.0 kG,Red,http://www.pokestadium.com/sprites/xy/goldeen.gif
+119,Seaking,80,92,65,65,80,Water,,Swift Swim,Water Veil,Lightningrod,39.0 kG,Red,http://www.pokestadium.com/sprites/xy/seaking.gif
+120,Staryu,30,45,55,70,55,Water,,Illuminate,Natural Cure,Analytic,34.5 kG,Brown,http://www.pokestadium.com/sprites/xy/staryu.gif
+121,Starmie,60,75,85,100,85,Water,Psychic,Illuminate,Natural Cure,Analytic,80.0 kG,Purple,http://www.pokestadium.com/sprites/xy/starmie.gif
+122,Mr. Mime,40,45,65,100,120,Psychic,,Soundproof,Filter,Technician,54.5 kG,Pink,http://www.pokestadium.com/sprites/xy/mrmime.gif
+123,Scyther,70,110,80,55,80,Bug,Flying,Swarm,Technician,Steadfast,56.0 kG,Green,http://www.pokestadium.com/sprites/xy/scyther.gif
+124,Jynx,65,50,35,115,95,Ice,Psychic,Oblivious,Forewarn,Dry Skin,40.6 kG,Red,http://www.pokestadium.com/sprites/xy/jynx.gif
+125,Electabuzz,65,83,57,95,85,Electric,,Static,,Vital Spirit,30.0 kG,Yellow,http://www.pokestadium.com/sprites/xy/electabuzz.gif
+126,Magmar,65,95,57,100,85,Fire,,Flame Body,,Vital Spirit,44.5 kG,Red,http://www.pokestadium.com/sprites/xy/magmar.gif
+127,Pinsir,65,125,100,55,70,Bug,,Hyper Cutter,Mold Breaker,Moxie,55.0 kG,Brown,http://www.pokestadium.com/sprites/xy/pinsir.gif
+128,Tauros,75,100,95,40,70,Normal,,Intimidate,Anger Point,Sheer Force,88.4 kG,Brown,http://www.pokestadium.com/sprites/xy/tauros.gif
+129,Magikarp,20,10,55,15,20,Water,,Swift Swim,,Rattled,10.0 kG,Red,http://www.pokestadium.com/sprites/xy/magikarp.gif
+130,Gyarados,95,125,79,60,100,Water,Flying,Intimidate,,Moxie,235.0 kG,Blue,http://www.pokestadium.com/sprites/xy/gyarados.gif
+131,Lapras,130,85,80,85,95,Water,Ice,Water Absorb,Shell Armor,Hydration,220.0 kG,Blue,http://www.pokestadium.com/sprites/xy/lapras.gif

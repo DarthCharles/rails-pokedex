@@ -10,7 +10,7 @@ class PokemonsController < ApplicationController
 
   def create
     @pokemon = Pokemon.new(pokemon_params)
-    
+
     if  @pokemon.save
       redirect_to @pokemon
     else
@@ -29,7 +29,7 @@ class PokemonsController < ApplicationController
   def update
     @pokemon = Pokemon.find(params[:id])
 
-    if @pokemon.update(pokemon_params)
+    if @pokemon.update_attributes(pokemon_params)
       redirect_to @pokemon
     else
       render :edit
@@ -60,6 +60,6 @@ private
     :hiddenAbility,
     :mass,
     :color,
-    :image_url)
+    :img_url)
   end
 end

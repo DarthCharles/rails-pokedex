@@ -35,6 +35,7 @@
 - CRUD
   * Controller goes in plural
   * Mejor usa el generador, menos hueva
+  index, new, create, edit, update, show, destroy
 
 
 - DEPLOYMENT
