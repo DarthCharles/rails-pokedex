@@ -1,4 +1,4 @@
-nat,name,hp,atk,def,spA,spD,typeI,typeII,abilityI,abilityII,hiddenAbilith,mass,color,img_url
+nat,name,hp,atk,def,spA,spD,typeI,typeII,abilityI,abilityII,hiddenAbility,mass,color,img_url
 1,Bulbasaur,45,49,49,65,65,Grass,Poison,Overgrow,,Chlorophyll,6.9 kG,Green,http://www.pokestadium.com/sprites/xy/bulbasaur.gif
 2,Ivysaur,60,62,63,80,80,Grass,Poison,Overgrow,,Chlorophyll,13.0 kG,Green,http://www.pokestadium.com/sprites/xy/ivysaur.gif
 3,Venusaur,80,82,83,100,100,Grass,Poison,Overgrow,,Chlorophyll,100.0 kG,Green,http://www.pokestadium.com/sprites/xy/venusaur.gif
